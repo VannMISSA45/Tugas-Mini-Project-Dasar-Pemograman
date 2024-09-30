@@ -1,5 +1,13 @@
 # Tugas-Mini-Project-Dasar-Pemograman
 
+Nama:Irvani Canlusty Missa
+
+Program Studi:Sistem Informasi
+
+NIM:2409116019
+
+
+
 ## Flowchart
 
 ![Screenshot 2024-09-30 115746](https://github.com/user-attachments/assets/66e373e8-3ebf-4630-8b4f-3b115263adaa)
